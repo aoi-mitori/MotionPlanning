@@ -11,3 +11,6 @@ An implementation of potential field-based path planning algorithm.
     <td><img src="pf.png" width="300"></td>
   </tr>
 </table>
+| Result | Potentioal Field | 
+| :-----------------: | :----------------: | 
+| ![](result.gif) | ![](pf.png) |
