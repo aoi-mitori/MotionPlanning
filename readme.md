@@ -1,3 +1,3 @@
 # Motion Planning
 An implementation of potential field-based path planning algorithm.
-![](./result.mov)
+<video src='result.mov' width=180/>
