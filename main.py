@@ -701,7 +701,7 @@ for robot in my_goal_robotArr:
 mm = MouseMover()
 canvas.bind("<Button-1>", mm.select)
 canvas.bind("<B1-Motion>", mm.drag)
-canvas.bind("<Button-2>", mm.select)
-canvas.bind("<B2-Motion>", mm.rotate)
+canvas.bind("<Button-3>", mm.select)
+canvas.bind("<B3-Motion>", mm.rotate)
 
 window.mainloop()        
